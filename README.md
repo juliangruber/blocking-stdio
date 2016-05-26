@@ -17,7 +17,7 @@ Do __NOT__ include this in a library. This module modifies global state and thus
 
 ## Kudos
 
-Thanks @isaacs! ![https://twitter.com/izs/status/732317861067153408](https://twitter.com/izs/status/732317861067153408).
+Thanks @isaacs! [https://twitter.com/izs/status/732317861067153408](https://twitter.com/izs/status/732317861067153408).
 
 
 ## License
