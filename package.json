@@ -1,6 +1,6 @@
 {
   "name": "blocking-stdio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": "juliangruber/blocking-stdio",
   "description": "Make stdio blocking (again!)"
